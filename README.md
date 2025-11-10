@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MONISHKA MITTAL</h1>
 <h3 align="center">Brewing more than coffee — models, ideas, and the occasional chaos</h3>
-<img align=”right” width=400 alt=”coding” src=”https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif”>
+<img align=”right” width=400 alt=coding src=”https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monishka1607&label=Profile%20views&color=0e75b6&style=flat" alt="monishka1607" /> </p>
 
