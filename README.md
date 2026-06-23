@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack dev and Computer Vision**
 
-- ⚡ Fun fact **My playlists speak more languages than my code.**
+- ⚡ Fun fact **My code speaks more languages than my playlists.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
