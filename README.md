@@ -74,6 +74,23 @@ monishka = {
 
 ---
 
+## ⚡ Fun Stats
+
+<div align="center">
+
+| ☕ Coffees Consumed | 💻 Lines Committed | 🐛 Bugs Created | 🔥 Bugs Fixed |
+|:-:|:-:|:-:|:-:|
+| `lost count` | `way too many` | `a few... okay many` | `most of them` |
+
+![Coffee](https://img.shields.io/badge/Fuel-Coffee%20%E2%98%95-6F4E37?style=flat-square)
+![Bugs](https://img.shields.io/badge/Bugs-Feature%20in%20disguise-red?style=flat-square)
+![Sleep](https://img.shields.io/badge/Sleep-Deprecated-lightgrey?style=flat-square)
+![Stack Overflow](https://img.shields.io/badge/Tabs%20open-way%20too%20many-orange?style=flat-square)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
