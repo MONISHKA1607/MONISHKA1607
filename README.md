@@ -80,6 +80,8 @@ monishka = {
 
 <h2 align="center">👾 Pacman Contribution Graph</h2>
 
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -90,10 +92,8 @@ monishka = {
     srcset="https://raw.githubusercontent.com/MONISHKA1607/MONISHKA1607/output/pacman-contribution-graph.svg">
 
   <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/MONISHKA1607/MONISHKA1607/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/MONISHKA1607/MONISHKA1607/output/pacman-contribution-graph-dark.svg">
 </picture>
-
 
 ---
 
