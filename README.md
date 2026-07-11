@@ -78,8 +78,6 @@ monishka = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MONISHKA1607&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
-<h2 align="center">👾 Pacman Contribution Graph</h2>
-
 
 
 <picture>
