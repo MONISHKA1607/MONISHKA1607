@@ -60,18 +60,6 @@ monishka = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MONISHKA1607&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MONISHKA1607&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MONISHKA1607&theme=tokyonight" />
-
-</div>
 
 
 
