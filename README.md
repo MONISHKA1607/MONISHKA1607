@@ -16,11 +16,26 @@
 
 ```python
 monishka = {
-    "currently_learning": ["Full Stack Development", "Computer Vision"],
-    "interests":          ["Machine Learning", "AI", "Open Source"],
-    "fun_fact":           "My code speaks more languages than my playlists 🎵",
-    "reach_me_at":        "linkedin.com/in/monishka-mittal-a26413302"
+    "currently_building": [
+        "AI/ML Systems",
+        "LLM & Agentic Applications",
+        "Scalable Software Systems"
+    ],
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Engineering",
+        "Generative AI"
+    ],
+    "currently_exploring": [
+        "System Design",
+        "LLM/RAG Architectures",
+        "Low-Level Design"
+    ],
+    "fun_fact": "I like turning ML ideas into systems that actually work in the real world 🚀",
+    "reach_me_at": "linkedin.com/in/monishka-mittal-a26413302"
 }
+
 ```
 
 ---
