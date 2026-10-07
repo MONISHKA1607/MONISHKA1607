@@ -32,7 +32,7 @@ monishka = {
         "LLM/RAG Architectures",
         "Low-Level Design"
     ],
-    "fun_fact": "I like turning ML ideas into systems that actually work in the real world 🚀",
+    "fun_fact": "My code knows more languages than my aux",
     "reach_me_at": "linkedin.com/in/monishka-mittal-a26413302"
 }
 
