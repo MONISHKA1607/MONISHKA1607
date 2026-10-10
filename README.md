@@ -32,7 +32,7 @@ monishka = {
         "LLM/RAG Architectures",
         "Low-Level Design"
     ],
-    "fun_fact": "My code knows more languages than my aux",
+    "fun_fact": "My code speaks more languages than my aux",
     "reach_me_at": "linkedin.com/in/monishka-mittal-a26413302"
 }
 
